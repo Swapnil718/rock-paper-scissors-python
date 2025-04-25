@@ -8,16 +8,7 @@ A fun and interactive command-line Rock, Paper, Scissors game written in Python 
 - **Technologies Used:** Python  
 - **Type:** Console Game  
 
-## 🚀 How to Run
-
-1. Make sure Python 3 is installed.
-2. Clone the repo or download the `.py` file.
-3. Run the script:
-
-```bash
-python rock_paper_scissors.py ```
-
-**## 🧠 Game Logic**
+## 🧠 Game Logic
 - You choose: rock, paper, or scissors.
 -The computer randomly picks its move.
 -The game compares both choices and determines the winner:
@@ -26,8 +17,18 @@ python rock_paper_scissors.py ```
 -Scissors beats Paper
 -Same choices = Tie
 
-## **🏁 Features**
+## 🏁 Features*
 -User input validation
 -Loop to replay game until user quits
 -Clear win/loss/draw messages
 -Random choice generation for the computer
+
+## 🚀 How to Run
+
+1. Make sure Python 3 is installed.
+2. Clone the repo or download the `.py` file.
+3. Run the script:
+
+```bash
+python rock_paper_scissors.py 
+
