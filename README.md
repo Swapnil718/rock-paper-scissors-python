@@ -17,7 +17,7 @@ A fun and interactive command-line Rock, Paper, Scissors game written in Python 
 - Scissors beats Paper
 - Same choices = Tie
 
-## 🏁 Features*
+## 🏁 Features
 - User input validation
 - Loop to replay game until user quits
 - Clear win/loss/draw messages
