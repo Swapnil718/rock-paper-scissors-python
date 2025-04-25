@@ -15,7 +15,7 @@ A fun and interactive command-line Rock, Paper, Scissors game written in Python 
 3. Run the script:
 
 ```bash
-python rock_paper_scissors.py
+python rock_paper_scissors.py ```
 
 **## 🧠 Game Logic**
 - You choose: rock, paper, or scissors.
